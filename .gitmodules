@@ -1,0 +1,6 @@
+[submodule "be"]
+	path = be
+	url = git@github.com:MarianiGiacomo/favoriteblogs-be.git
+[submodule "fe"]
+	path = fe
+	url = git@github.com:MarianiGiacomo/favoriteblogs-fe.git
